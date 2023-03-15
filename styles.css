@@ -1,0 +1,51 @@
+@import url('https://fonts.cdnfonts.com/css/d-din');
+
+body {
+    color: white;
+    text-transform: uppercase;
+    font-family: 'D-DIN', sans-serif;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+.navbar,
+.footer {
+    margin-left: 20px;
+}
+
+.spacex-logo {
+    width: 25%;
+}
+
+.burger-icon {
+    width: 30px;
+}
+
+.hero {
+    background: url("./images/spaceXRocket.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 85vh;
+}
+
+
+.learn-more {
+    margin: 200px 0 0 20px;
+}
+
+.learn-more h2 {
+    font-size: 2em;
+    width: 30%;
+}
+
+.learn-more a {
+    display: block;
+    border: 2px solid white;
+    padding: 20px;
+    margin-top: 20px;
+    width: 150px;
+    text-align: center;
+}
